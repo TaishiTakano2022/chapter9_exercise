@@ -68,6 +68,7 @@ main{
 
 }
 
+
 footer{
   height: 50px;
   background-color: #aaaaaa;
@@ -78,7 +79,6 @@ footer{
   main {
     display: block;
     width: 100%;
-
   }
   .main-box{
     margin:0 auto 30px auto;
@@ -90,6 +90,5 @@ footer{
 
   header footere{
     width: 100%;
-
   }
 }
